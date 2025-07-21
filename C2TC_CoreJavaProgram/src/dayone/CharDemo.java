@@ -1,7 +1,7 @@
 package dayone;
 
 public class CharDemo {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		char ch = 'a';
 		System.out.println(ch);
@@ -22,5 +22,6 @@ public class CharDemo {
 		int a = 'S';
 		System.out.println(a);
 	}
+
 
 }
