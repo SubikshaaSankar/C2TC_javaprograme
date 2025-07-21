@@ -4,15 +4,15 @@ public class PrimitiveDataTypesDemo {
 	
 	public static void main(String[] args) {
 		
-		byte byteMax = 200;
-		byte byteMin = -258;
+		byte byteMax = 127;
+		byte byteMin = -128;
 		
 		System.out.println("Min range of byte is" +
 				byteMin+"Max range of byte is "+byteMax);
 		
 		
-		short shortMax = 56987;
-		short shortMin = -36982;
+		short shortMax = 32767;
+		short shortMin = -32768;
 		System.out.println("Minshort range of byte is" +
 				shortMin+"Maxshort range of byte is "+shortMax);
 		
