@@ -1,4 +1,4 @@
-//Program to demonstrate singleton class
+
 package Dayfour.thirdpackage;
 
 public class MyClass {
