@@ -1,5 +1,5 @@
 //child interface inherits from InterfaceOne//
-package dayeight.abstraction.extendinginterfaces;
+package dayeight.iterface.extendinginterfaces;
 
 public interface ChildInterface extends InterfaceOne {
 	void show();

@@ -1,5 +1,5 @@
 //multiple inheritance - 
-package dayeight.interfaces.extendinginterfaces;
+package dayeight.iterface.extendinginterfaces;
 
 public class ExtendingInterfaceDemo implements ChildInterface {
 	// Override ChildInterface method
