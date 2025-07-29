@@ -1,4 +1,4 @@
-package dayeight.iterface.functionalinterfaces;
+package dayeight.Interface.functionalinterfaces;
 
 public class FunctionalInterfaceDemo {
 
