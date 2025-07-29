@@ -1,5 +1,5 @@
 //InterfaceOne declaration
-package dayeight.iterface.extendinginterfaces;
+package dayeight.Interface.extendinginterfaces;
 
 interface InterfaceOne{  
   void print();  
