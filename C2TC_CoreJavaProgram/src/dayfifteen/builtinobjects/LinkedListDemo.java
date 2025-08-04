@@ -1,4 +1,4 @@
-//Program to demonstrate LinkedList class
+//c
 package dayfifteen.builtinobjects;
 
 import java.util.Collections;
